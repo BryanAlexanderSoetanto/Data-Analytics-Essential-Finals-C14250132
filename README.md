@@ -163,7 +163,7 @@ Kelas penumpang dan gender berpengaruh terhadap keselamatan dengan bukti mayorit
 
 ---
 
-### 🥧 Pie Chart – Death by Class & Gender
+### Pie Chart – Death by Class & Gender
 
 Diagram lingkaran yang memperlihatkan:
 
