@@ -4,7 +4,8 @@ Analisa Dataset Titanic Menggunakan KNIME
 ---
 
 # 🛳️ Analisis Data Titanic Menggunakan KNIME
-<img width="1829" height="967" alt="image" src="https://github.com/user-attachments/assets/2a09cf80-f042-477c-ad1a-cada2ce25415" />
+<img width="1829" height="967" alt="image" src="https://github.com/user-attachments/assets/20fb406c-798a-4816-9540-57aec8ced83a" />
+
 
 Workflow ini dibuat untuk menganalisis data penumpang Titanic, dengan fokus pada **status survival** berdasarkan **usia, jenis kelamin, dan kelas penumpang**, serta membangun model klasifikasi decision tree untuk prediksi survival.
 
